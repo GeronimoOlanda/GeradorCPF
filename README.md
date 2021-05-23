@@ -8,3 +8,4 @@ Linguagens utilizadas:
 
 Outros:
 * WebPack
+* editorconfig
